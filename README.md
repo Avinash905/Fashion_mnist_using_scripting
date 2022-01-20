@@ -1,0 +1,2 @@
+# Fashion_mnist_using_scripting
+Fashion_mnist_using_scripting
